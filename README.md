@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Social-links-profile
 
 ![Design preview for the QR code component coding challenge](./design/preview.jpg)
 
